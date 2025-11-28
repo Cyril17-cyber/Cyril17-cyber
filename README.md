@@ -20,7 +20,12 @@ Here are a few projects that showcase my skills:
 - **🛍️ Shop Judy — E-commerce (Next.js + TS)**  
   A modern e-commerce platform with responsive UI and clean architecture.  
   **Repo:** https://github.com/Cyril17-cyber/shop-judy  
-  *(Demo link coming soon)*
+  **Demo Link:** https://shop-judy.onrender.com/
+
+- **🏦 United Bank - clone app**  
+  An almost perfect, functional finance app that let's you make transfers with hypothetical money with clean UI and API integration.  
+  **Repo:** https://github.com/Cyril17-cyber/UnitedBankClone
+  **Demo Link:** https://united-bank-clone.onrender.com/
 
 - **📊 URI Creative Dashboard — Admin Panel**  
   Full dashboard with charts, authentication, and modular components.  
@@ -30,6 +35,7 @@ Here are a few projects that showcase my skills:
 - **🎬 Rillo Movies — Movie Discovery App**  
   A movie search and listing app with clean UI and API integration.  
   **Repo:** https://github.com/Cyril17-cyber/Rillo-movies
+  **Demo Link:** https://rillo-movies.onrender.com/
 
 ---
 
