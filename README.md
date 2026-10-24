@@ -7,10 +7,10 @@ I blend strong UI/UX design experience with modern frontend engineering to ship 
 ---
 
 ## 🚀 Tech Stack
-**Frontend:** React, Next.js, TypeScript, Redux, TailwindCSS, MUI  
+**Frontend:** React, Next.js, TypeScript, Redux, TailwindCSS, MUI, React Native.  
 **Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
 **Web3:** Solidity, Hardhat, Wagmi, RainbowKit  
-**Tools:** Git, Docker, Prisma, REST APIs, Axios, Figma
+**Tools:** Git, Docker, Prisma, REST APIs, Axios, Figma, Azure Devops
 
 ---
 
